@@ -56,7 +56,7 @@ npm start
 
 - Implémentation d'un router ![Done](https://img.shields.io/badge/Fait-green)
 
-  - Le router doit permettre d'accèder à n'importe quelle fiche ![Not Sure](https://img.shields.io/badge/Fait-orange)
+  - Le router doit permettre d'accèder à n'importe quelle fiche ![Not Sure](https://img.shields.io/badge/Pas_Sur-orange)
 
   **Point non compris de mon côté, je ne sais pas s'il sera considéré comme fait, je n'ai pas pu comprendre ce qui était demandé.**
 
@@ -74,7 +74,7 @@ npm start
 **Je pense que cela doit être bon ?**
 
 - Un debounce pour la recherche ![Done](https://img.shields.io/badge/Fait-green)
-- Mise en place de CSS modules ![Not Done](https://img.shields.io/badge/Fait-red)
+- Mise en place de CSS modules ![Not Done](https://img.shields.io/badge/Pas_Fait-red)
 
 **Comme je suis passé par MUI pour le style, je n'ai pas créé de modules CSS**
 
