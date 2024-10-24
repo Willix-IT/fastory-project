@@ -33,7 +33,7 @@ npm start
   - l'utilisateur: `Luke`
   - password: `DadSucks`
 
-  **(petite précision, comme je ne savais pas la façon dont cela devait être implémenter, j'ai simplement protégé les routes avec une Basic Auth. Côté Front il n'y a rien à faire car les identifiants sont directement dans le code. Cependant si vous essayez de faire une requête au back depuis par ex Postman, cela ne fonctionnera pas sans l'authentification)** <br />
+  **(petite précision, comme je ne savais pas la façon dont cela devait être implémenté, j'ai simplement protégé les routes avec une Basic Auth. Côté Front il n'y a rien à faire car les identifiants sont directement dans le code. Cependant si vous essayez de faire une requête au back depuis par exemple Postman, cela ne fonctionnera pas sans l'authentification)** <br />
 
 - L'utilisation d'[HAPI](https://hapi.dev/) car les développeur de la rébellion l'apprécie. ![Done](https://img.shields.io/badge/Fait-green)
 
